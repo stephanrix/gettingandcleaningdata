@@ -35,8 +35,8 @@ Enter file contents here# CodeBook to run_analysis.R
 ## Workflow
 The workflow of the code mainly consists of three steps (a high-level representation of the 6 steps in README.md):
 
-1. Load all data (lines 14-37)
+1. Load all data (lines 13-36)
 
-2. Merge and select data (lines 39-73)
+2. Merge and select data (lines 38-72)
 
-3. Aggregate to mean (lines 75-91).
+3. Aggregate to mean (lines 74-90).
